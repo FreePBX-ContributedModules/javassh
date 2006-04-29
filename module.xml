@@ -7,7 +7,7 @@
 	<menuitems>
 		<javassh>Java SSH</javassh>
 	</menuitems>
-	<location>release/javassh</location>
+	<location>release/javassh-1.0.tgz</location>
 	<info>http://aussievoip.com.au/wiki/freePBX-JavaSSH</info>
-	<md5sum>9f2aedfbf117551454c1ab348f920ed9</md5sum>
+	<md5sum>8fd7dab5433e6bffb9e7ccb5b7a372fe</md5sum>
 </module>
