@@ -1,13 +1,13 @@
 <module>
 	<rawname>javassh</rawname>
 	<name>Java SSH</name>
-	<version>1.0</version>
+	<version>1.0.1</version>
 	<type>tool</type>
 	<category>Module</category>
 	<menuitems>
 		<javassh>Java SSH</javassh>
 	</menuitems>
-	<location>release/javassh-1.0.tgz</location>
+	<location>release/javassh-1.0.1.tgz</location>
 	<info>http://aussievoip.com.au/wiki/freePBX-JavaSSH</info>
-	<md5sum>8fd7dab5433e6bffb9e7ccb5b7a372fe</md5sum>
+	<md5sum>6479934a5add783f28d1bca325197371</md5sum>
 </module>
