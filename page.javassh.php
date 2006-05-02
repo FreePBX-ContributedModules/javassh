@@ -17,7 +17,8 @@
 <h2> Java SSH </h2>
 
 If necessary re-enter the maint user and password. Once the applet has opened enter the IP address of
-your PBX. Log in with the CentOS user name and password
+your PBX. You will then connect to the FreePBX server. You can then login as 'root' or 'asterisk', or
+whatever user you have created.
 
 <APPLET CODE="com.mindbright.application.MindTerm.class"
           ARCHIVE="/admin/modules/javassh/mindterm.jar" WIDTH=0 HEIGHT=0>
