@@ -3,7 +3,8 @@
 	<name>Java SSH</name>
 	<version>1.0.1</version>
 	<type>tool</type>
-	<category>Module</category>
+	<category>System Administration</category>
+	<description>Provides a Java applet to access the system shell using SSH</description>
 	<menuitems>
 		<javassh>Java SSH</javassh>
 	</menuitems>
