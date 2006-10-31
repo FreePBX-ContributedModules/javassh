@@ -27,5 +27,3 @@ whatever user you have created.
     <PARAM NAME="debug" value="false">
 </APPLET>
 
-</div>
-
