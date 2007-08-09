@@ -1,14 +1,17 @@
 <module>
 	<rawname>javassh</rawname>
 	<name>Java SSH</name>
-	<version>1.0.1</version>
+	<version>1.0.1.1</version>
 	<type>tool</type>
 	<category>System Administration</category>
 	<description>Provides a Java applet to access the system shell using SSH</description>
 	<menuitems>
 		<javassh>Java SSH</javassh>
 	</menuitems>
+	<changelog>
+		*1.0.1.1* bump for rc1
+		*1.0.1* First Changelog
+	</changelog>
 	<location>release/2.3/javassh-1.0.1.tgz</location>
-	<info>http://aussievoip.com.au/wiki/freePBX-JavaSSH</info>
 	<md5sum>d72a687d5f4d8ca33f8fe158d01f3cbf</md5sum>
 </module>
