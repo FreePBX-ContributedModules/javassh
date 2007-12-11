@@ -1,7 +1,7 @@
 <module>
 	<rawname>javassh</rawname>
 	<name>Java SSH</name>
-	<version>1.0.1.1</version>
+	<version>2.4.0</version>
 	<type>tool</type>
 	<category>System Administration</category>
 	<description>Provides a Java applet to access the system shell using SSH</description>
@@ -9,9 +9,10 @@
 		<javassh>Java SSH</javassh>
 	</menuitems>
 	<changelog>
+		*2.4.0* bump for 2.4
 		*1.0.1.1* bump for rc1
 		*1.0.1* First Changelog
 	</changelog>
-	<location>release/2.3/javassh-1.0.1.1.tgz</location>
-	<md5sum>a81c8c77da4b6078fcedd87bb28e0617</md5sum>
+	<location>release/2.4/javassh-2.4.0.tgz</location>
+	<md5sum>dff14a585b38a19c81913464fda439b3</md5sum>
 </module>
