@@ -25,5 +25,12 @@ echo _("You will then connect to the FreePBX server. You can then login as 'root
     <PARAM NAME="cabinets" VALUE="/admin/modules/javassh/mindterm.cab">
     <PARAM NAME="sepframe" value="true">
     <PARAM NAME="debug" value="false">
+    <PARAM NAME="" value="">
+    <PARAM NAME="bg-color" value="black">
+    <PARAM NAME="fg-color" value="white">
+    <PARAM NAME="cursor-color" value="white">
+    <PARAM NAME="menus" value="popN">
+    <PARAM NAME="exit-on-logout" value="true">
+    <PARAM NAME="allow-new-server" value="false">
 </APPLET>
 
