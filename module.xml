@@ -1,7 +1,7 @@
 <module>
 	<rawname>javassh</rawname>
 	<name>Java SSH</name>
-	<version>2.5.0</version>
+	<version>2.5.0.2</version>
 	<type>tool</type>
 	<category>System Administration</category>
 	<description>Provides a Java applet to access the system shell using SSH</description>
@@ -9,6 +9,8 @@
 		<javassh>Java SSH</javassh>
 	</menuitems>
 	<changelog>
+		*2.5.0.2* security setting updates: r7432
+		*2.5.0.1* localization updates
 		*2.5.0* localization fixes, Swedish
 		*2.4.0* bump for 2.4
 		*1.0.1.1* bump for rc1
