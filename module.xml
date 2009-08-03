@@ -19,6 +19,6 @@
 		*1.0.1.1* bump for rc1
 		*1.0.1* First Changelog
 	</changelog>
-	<location>release/2.5/javassh-2.5.0.tgz</location>
-	<md5sum>b84d448244e9c4511b7c265b946fb887</md5sum>
+	<location>release/2.6/javassh-2.6.0.0.tgz</location>
+	<md5sum>1e843fb3e7a15e92f2496ccff29a5a5c</md5sum>
 </module>
