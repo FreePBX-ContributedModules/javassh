@@ -20,7 +20,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-02-27 13:45+0100\n"
+"POT-Creation-Date: 2010-02-27 17:34+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,29 +28,23 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: javassh/javassh.i18n.php:5 javassh/javassh.i18n.php:11
-#: javassh/page.javassh.php:17
 msgid "Java SSH"
 msgstr ""
 
-#: javassh/javassh.i18n.php:7
 msgid "System Administration"
 msgstr ""
 
-#: javassh/javassh.i18n.php:9
 msgid ""
 "Provides a Java applet to access the system shell using SSH. SSH client is "
 "provided by Appgate (www.appgate.com) and licensed is Free Limited Use, "
 "http://www.appgate.com/index/products/mindterm/mindterm_end_user_lic.html"
 msgstr ""
 
-#: javassh/page.javassh.php:18
 msgid ""
 "If necessary re-enter the maint user and password. Once the applet has "
 "opened enter the IP address of your PBX.<br>"
 msgstr ""
 
-#: javassh/page.javassh.php:19
 msgid ""
 "You will then connect to the FreePBX server. You can then login as 'root' or "
 "'asterisk', or whatever user you have created."
