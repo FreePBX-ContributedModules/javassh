@@ -2,7 +2,7 @@
 	<rawname>javassh</rawname>
 	<repo>extended</repo>
 	<name>Java SSH</name>
-	<version>2.9.0.0</version>
+	<version>2.10.0.0</version>
 	<publisher>FreePBX</publisher>
 	<license>FREEUSE</license>
 	<category>Admin</category>
@@ -11,8 +11,9 @@
 		<javassh>Java SSH</javassh>
 	</menuitems>
 	<changelog>
+		*2.10.0.0* new version changes
 		*2.9.0.0* 2.9 Update
 	</changelog>
-	<location>release/2.9/javassh-2.9.0.0.tgz</location>
-	<md5sum>96a0089e7a0f24488a9da2777ff788c5</md5sum>
+	<location>release/2.10/javassh-2.10.0.0.tgz</location>
+	<md5sum>fc4bac9295fa1fb033813167418c74be</md5sum>
 </module>
