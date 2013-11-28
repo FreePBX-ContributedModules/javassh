@@ -16,4 +16,4 @@
 	</changelog>
 	<location>release/2.10/javassh-2.10.0.0.tgz</location>
 	<md5sum>fc4bac9295fa1fb033813167418c74be</md5sum>
-</module>
+<supported><version>2.10</version></supported></module>
