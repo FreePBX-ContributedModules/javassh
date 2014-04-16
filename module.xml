@@ -1,16 +1,18 @@
 <module>
   <rawname>javassh</rawname>
-  <repo>extended</repo>
+  <repo>unsupported</repo>
   <name>Java SSH</name>
-  <version>2.11.0.0</version>
-  <publisher>FreePBX</publisher>
-  <license>FREEUSE</license>
+  <version>2.11.0.1</version>
+  <publisher>Schmooze Com Inc</publisher>
+  <license>GPLv3+</license>
+  <licenselink>http://www.gnu.org/licenses/gpl-3.0.txt</licenselink>
   <category>Admin</category>
   <description>Provides a Java applet to access the system shell using SSH. SSH client is provided by Appgate (www.appgate.com) and licensed is Free Limited Use, http://www.appgate.com/index/products/mindterm/mindterm_end_user_lic.html</description>
   <menuitems>
     <javassh>Java SSH</javassh>
   </menuitems>
   <changelog>
+  		*2.11.0.1* Include license file
 		*2.11.0.0* bump version
 		*2.10.0.1* #5478 
 		*2.10.0.0* new version changes

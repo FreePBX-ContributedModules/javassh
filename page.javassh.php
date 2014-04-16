@@ -2,18 +2,9 @@
 if (!defined('FREEPBX_IS_AUTH')) { die('No direct script access allowed'); }
 /* $Id:$ */
 
-// Wrapper code for opening a new window. 
+//	License for all code of this FreePBX module can be found in the license file inside the module directory
+//	Copyright 2013 Schmooze Com Inc.
 //
-//This program is free software; you can redistribute it and/or
-//modify it under the terms of version 2 of the GNU General Public
-//License as published by the Free Software Foundation.
-//
-//This program is distributed in the hope that it will be useful,
-//but WITHOUT ANY WARRANTY; without even the implied warranty of
-//MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-//GNU General Public License for more details.
-
-
 
 echo "<h2> "._("Java SSH")." </h2>";
 echo _("If necessary re-enter the maint user and password. Once the applet has opened enter the IP address of your PBX.<br>");
