@@ -1,19 +1,8 @@
-<?php 
+<?php
 if (!defined('FREEPBX_IS_AUTH')) { die('No direct script access allowed'); }
-// Java SSH Client
+//	License for all code of this FreePBX module can be found in the license file inside the module directory
+//	Copyright 2013 Schmooze Com Inc.
 //
-// This program is free software; you can redistribute it and/or
-// modify it under the terms of version 3 of the GNU Affero General Public
-// License as published by the Free Software Foundation, or at your choice,
-// any later version.
-//
-// Some parts of JCTerm are released under other open source licences. Explicit
-// permission is granted for use of those packages with this module.
-//
-// This program is distributed in the hope that it will be useful,
-// but WITHOUT ANY WARRANTY; without even the implied warranty of
-// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-// GNU General Public License for more details.
 
 echo "<h2> "._("Java SSH")." </h2>";
 echo _("You can click on the 'New window' bar to open a new window.");
