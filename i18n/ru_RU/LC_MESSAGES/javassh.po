@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-11 17:59-0500\n"
+"POT-Creation-Date: 2015-02-20 19:38-0500\n"
 "PO-Revision-Date: 2012-11-02 13:42+0400\n"
 "Last-Translator: Alexander Anikin <may@postmet.com>\n"
 "Language-Team: Russian\n"
@@ -17,22 +17,27 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
 "10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-#: /usr/src/freepbx/javassh/page.javassh.php:7
+#: javassh.i18n.php:4
+msgid "Admin"
+msgstr "Админ"
+
+#: javassh.i18n.php:3 javassh.i18n.php:6 page.javassh.php:7
 msgid "Java SSH"
 msgstr "Java SSH"
 
-#: /usr/src/freepbx/javassh/page.javassh.php:9
+#: javassh.i18n.php:5
+msgid "Provides a Java applet to access the system shell using SSH."
+msgstr ""
+
+#: page.javassh.php:9
 msgid ""
 "Select one of the pre-populated hosts to connect to, or, you can enter your "
 "own."
 msgstr ""
 
-#: /usr/src/freepbx/javassh/page.javassh.php:8
+#: page.javassh.php:8
 msgid "You can click on the 'New window' bar to open a new window."
 msgstr ""
-
-#~ msgid "Admin"
-#~ msgstr "Админ"
 
 #~ msgid ""
 #~ "Provides a Java applet to access the system shell using SSH. SSH client "

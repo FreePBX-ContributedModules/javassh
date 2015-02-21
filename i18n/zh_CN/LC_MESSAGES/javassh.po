@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreePBX 2.5 Chinese Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-11 17:59-0500\n"
+"POT-Creation-Date: 2015-02-20 19:38-0500\n"
 "PO-Revision-Date: 2009-02-01 14:52+0800\n"
 "Last-Translator: 周征晟 <zhougongjizhe@163.com>\n"
 "Language-Team: EdwardBadBoy <zhougongjizhe@163.com>\n"
@@ -18,17 +18,25 @@ msgstr ""
 "X-Poedit-Country: CHINA\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
-#: /usr/src/freepbx/javassh/page.javassh.php:7
+#: javassh.i18n.php:4
+msgid "Admin"
+msgstr ""
+
+#: javassh.i18n.php:3 javassh.i18n.php:6 page.javassh.php:7
 msgid "Java SSH"
 msgstr "Java SSH远程登录"
 
-#: /usr/src/freepbx/javassh/page.javassh.php:9
+#: javassh.i18n.php:5
+msgid "Provides a Java applet to access the system shell using SSH."
+msgstr ""
+
+#: page.javassh.php:9
 msgid ""
 "Select one of the pre-populated hosts to connect to, or, you can enter your "
 "own."
 msgstr ""
 
-#: /usr/src/freepbx/javassh/page.javassh.php:8
+#: page.javassh.php:8
 msgid "You can click on the 'New window' bar to open a new window."
 msgstr ""
 
