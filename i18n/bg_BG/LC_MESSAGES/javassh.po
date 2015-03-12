@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: FreePBX v2.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-20 19:38-0500\n"
-"PO-Revision-Date: 2014-07-22 09:51+0200\n"
+"PO-Revision-Date: 2015-03-11 21:45+0200\n"
 "Last-Translator: Chavdar <chavdar_75@yahoo.com>\n"
-"Language-Team: Bulgarian <http://git.freepbx.org/projects/freepbx/javassh/bg/"
-">\n"
+"Language-Team: Bulgarian "
+"<http://weblate.freepbx.org/projects/freepbx/javassh/bg_BG/>\n"
+"Language: bg_BG\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: bg_BG\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 1.10-dev\n"
+"X-Generator: Weblate 2.2-dev\n"
 "X-Poedit-Language: Bulgarian\n"
 "X-Poedit-Country: BULGARIA\n"
 "X-Poedit-SourceCharset: utf-8\n"
@@ -28,21 +28,21 @@ msgstr "Админ"
 
 #: javassh.i18n.php:3 javassh.i18n.php:6 page.javassh.php:7
 msgid "Java SSH"
-msgstr "Java SSH"
+msgstr "JavaSSH"
 
 #: javassh.i18n.php:5
 msgid "Provides a Java applet to access the system shell using SSH."
-msgstr ""
+msgstr "Предоставя Java аплет за достъп до системен терминал чрез SSH."
 
 #: page.javassh.php:9
 msgid ""
 "Select one of the pre-populated hosts to connect to, or, you can enter your "
 "own."
-msgstr ""
+msgstr "Изберете един от въведените хостове за връзка или въведете Ваш такъв."
 
 #: page.javassh.php:8
 msgid "You can click on the 'New window' bar to open a new window."
-msgstr ""
+msgstr "Можете да кликнете на 'Нов Прозорец' за да отворите нов прозорец."
 
 #~ msgid ""
 #~ "Provides a Java applet to access the system shell using SSH. SSH client "
