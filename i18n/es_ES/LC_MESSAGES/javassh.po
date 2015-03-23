@@ -23,7 +23,7 @@ msgstr "Administrador"
 
 #: javassh.i18n.php:3 javassh.i18n.php:6 page.javassh.php:7
 msgid "Java SSH"
-msgstr "Java SSH"
+msgstr "SSH java"
 
 #: javassh.i18n.php:5
 msgid "Provides a Java applet to access the system shell using SSH."
