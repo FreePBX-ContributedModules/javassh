@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-20 19:38-0500\n"
-"PO-Revision-Date: 2016-01-16 05:43+0200\n"
+"PO-Revision-Date: 2016-01-21 07:36+0200\n"
 "Last-Translator: Nicolas <forums@riendeau.org>\n"
 "Language-Team: French "
 "<http://weblate.freepbx.org/projects/freepbx/javassh/fr_FR/>\n"
@@ -41,17 +41,21 @@ msgstr "SSH Java"
 
 #: javassh.i18n.php:5
 msgid "Provides a Java applet to access the system shell using SSH."
-msgstr ""
+msgstr "Fournis un applet Java pour accéder la ligne de commande par SSH."
 
 #: page.javassh.php:9
 msgid ""
 "Select one of the pre-populated hosts to connect to, or, you can enter your "
 "own."
 msgstr ""
+"Veuillez choisir l'un des hôtes fournis par défaut ou saisissez en un "
+"nouveau."
 
 #: page.javassh.php:8
 msgid "You can click on the 'New window' bar to open a new window."
 msgstr ""
+"Vous pouvez cliquer sur la barre 'Nouvelle fenêtre' pour ouvrir une nouvelle "
+"fenêtre."
 
 #~ msgid ""
 #~ "If necessary re-enter the maint user and password. Once the applet has "
