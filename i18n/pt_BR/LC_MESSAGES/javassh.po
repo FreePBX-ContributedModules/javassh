@@ -10,32 +10,36 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-20 19:38-0500\n"
-"PO-Revision-Date: 2015-02-20 19:38-0500\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-12-13 01:32+0200\n"
+"Last-Translator: Alexander <alexander.schley@paranagua.pr.gov.br>\n"
+"Language-Team: Portuguese (Brazil) "
+"<http://weblate.freepbx.org/projects/freepbx/javassh/pt_BR/>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.4\n"
 
 #: javassh.i18n.php:4
 msgid "Admin"
-msgstr ""
+msgstr "Administrador"
 
 #: javassh.i18n.php:3 javassh.i18n.php:6 page.javassh.php:7
 msgid "Java SSH"
-msgstr ""
+msgstr "SSH java"
 
 #: javassh.i18n.php:5
 msgid "Provides a Java applet to access the system shell using SSH."
-msgstr ""
+msgstr "Fornece uma aplicação Java para acessar o shell do sistema usando SSH."
 
 #: page.javassh.php:9
 msgid ""
 "Select one of the pre-populated hosts to connect to, or, you can enter your "
 "own."
 msgstr ""
+"Selecione um dos hosts pré-definidos para se conectar ou insira um novo."
 
 #: page.javassh.php:8
 msgid "You can click on the 'New window' bar to open a new window."
-msgstr ""
+msgstr "Você pode clicar na barra \"Nova janela\" para abrir uma nova janela."
