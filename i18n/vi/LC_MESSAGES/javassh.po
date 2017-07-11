@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-20 19:38-0500\n"
-"PO-Revision-Date: 2017-07-11 09:59+0200\n"
+"PO-Revision-Date: 2017-07-11 10:02+0200\n"
 "Last-Translator: PETER <ftek@ymail.com>\n"
 "Language-Team: Vietnamese "
 "<http://weblate.freepbx.org/projects/freepbx/javassh/vi/>\n"
@@ -27,7 +27,7 @@ msgstr "Quản trị viên"
 
 #: javassh.i18n.php:3 javassh.i18n.php:6 page.javassh.php:7
 msgid "Java SSH"
-msgstr "Java SSH"
+msgstr "Ngôn ngữ lập trình Java SSH"
 
 #: javassh.i18n.php:5
 msgid "Provides a Java applet to access the system shell using SSH."
